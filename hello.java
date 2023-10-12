@@ -1,8 +1,8 @@
-class hello()
+class hello() #dev1
 {
-	public static void main()
+	public static void main()	#dev1
 	{
-		sys.out println("hello by dev1") #dev1
+		sys.out println("hello by dev1");:
 	}
 
 }
